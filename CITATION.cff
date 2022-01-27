@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+authors:
+- family-names: "Paez"
+  given-names: "Daniel"
+- family-names: "Gonzalez"
+  given-names: "Rebeca""
+title: "Drowsiness-detection-system"
+version: 1.0.0
+date-released: 2022-01-27
+url: "https://github.com/iZelex/Drowsiness-detection-system"
