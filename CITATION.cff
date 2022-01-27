@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Paez"
+  given-names: "Daniel"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+- family-names: "Gonzalez"
+  given-names: "Rebeca"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "Drowsiness-detection-system"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2022-01-27
+url: "https://github.com/iZelex/Drowsiness-detection-system"
